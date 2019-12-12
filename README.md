@@ -10,6 +10,9 @@
   * Skin Customization
   * Easy to learn game mechanics
   
+## Download
+* [Download the game's APK here!](https://github.com/DrN3MESiS/unity-android-pipilife/releases/tag/v3.1.0)
+  
 ### Developers
   * [Alan Enrique Maldonado Navarro](https://github.com/DrN3MESiS) (Owner of the Repository, Game Designer)
   * [Guillermo Gonzalez Mena](https://github.com/GG-kun) (Programmer) 
